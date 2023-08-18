@@ -1,10 +1,10 @@
 ### Hello World
-저는 SBS 미디어IT팀에서 방송 엔지니어로 일하고 있습니다. 이것저것 합니다. 아래 로고들은 코드 한 줄이라도 써본 것들이지 잘하는 것들이 아닙니다.
+저는 SBS 미디어IT팀에서 방송 엔지니어로 일하고 있습니다. 이것저것 합니다. 아래 로고들은 몇 초라도 다뤄본 것들이지 잘하는 것들이 아닙니다. 얕고 넓게 해댔네요.
 
 I am a broadcasting engineer at SBS(Seoul Broadcasting System), Seoul, South Korea. I do whateve I need to. The languages I have written in at least one line(NOTE:not meaning good at) are as follows:
-
+So broad and shallow experiences...
 <p>
-  <img alt="Static Badge" src="https://img.shields.io/badge/Python-%233776AB?logo=python&labelColor=white">
+<img alt="Static Badge" src="https://img.shields.io/badge/Python-%233776AB?logo=python&labelColor=white">
 <img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-%23F7DF1E?logo=javascript&logoColor=white">
 <img alt="Static Badge" src="https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white">
 <img alt="Static Badge" src="https://img.shields.io/badge/AutoHotKey-%23334455?logo=autohotkey&logoColor=white">
@@ -17,6 +17,10 @@ I am a broadcasting engineer at SBS(Seoul Broadcasting System), Seoul, South Kor
 <img alt="Static Badge" src="https://img.shields.io/badge/Adobe%20Premiere%20Pro%20Script-%239999FF?logo=adobepremierepro&logoColor=white">
 <img alt="Static Badge" src="https://img.shields.io/badge/HTML5-%23E34F26?logo=html5&logoColor=white">
 <img alt="Static Badge" src="https://img.shields.io/badge/CSS-%231572B6?logo=css3&logoColor=white">
+<img alt="Static Badge" src="https://img.shields.io/badge/ffmpeg-%23007808?logo=ffmpeg">
+<img alt="Static Badge" src="https://img.shields.io/badge/GStreamer-%23FF3131?logo=gstreamer&labelColor=white">
+<img alt="Static Badge" src="https://img.shields.io/badge/VLC-%23FF8800?logo=vlcmediaplayer&labelColor=white">
+<img alt="Static Badge" src="https://img.shields.io/badge/OBS%20Studio-%23302E31?logo=obsstudio">
 </p>
 
 
