@@ -1,7 +1,7 @@
 ### Hello World
 저는 [SBS](https://www.sbs.co.kr/) 미디어IT팀에서 방송 엔지니어로 일하고 있습니다. 이것저것 합니다. 아래 로고들은 몇 초라도 다뤄본 것들이지 잘하는 것들이 아닙니다. 얕고 넓게 해댔네요.
 
-I am a broadcasting engineer at [SBS](https://www.sbs.co.kr/)(Seoul Broadcasting System), Seoul, South Korea. I do whateve I need to. The languages I have dealt with at least few seconds(NOTE:not meaning good at) are as follows:
+I am a broadcasting engineer at [SBS](https://www.sbs.co.kr/)(Seoul Broadcasting System), Seoul, South Korea. I do whatever I need to. The languages I have dealt with at least few seconds(NOTE:not meaning good at) are as follows:
 So broad and shallow experiences...
 <p>
 <img alt="Static Badge" src="https://img.shields.io/badge/Python-%233776AB?logo=python&labelColor=white">
