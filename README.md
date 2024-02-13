@@ -17,7 +17,7 @@ So broad and shallow experiences...
 <img alt="Static Badge" src="https://img.shields.io/badge/Adobe%20Premiere%20Pro%20Script-%239999FF?logo=adobepremierepro&logoColor=white">
 <img alt="Static Badge" src="https://img.shields.io/badge/HTML5-%23E34F26?logo=html5&logoColor=white">
 <img alt="Static Badge" src="https://img.shields.io/badge/CSS-%231572B6?logo=css3&logoColor=white">
-<img alt="Static Badge" src="https://img.shields.io/badge/ffmpeg-%23007808?logo=ffmpeg">
+<img alt="Static Badge" src="https://img.shields.io/badge/FFmpeg-%23007808?logo=ffmpeg">
 <img alt="Static Badge" src="https://img.shields.io/badge/GStreamer-%23FF3131?logo=gstreamer&labelColor=white">
 <img alt="Static Badge" src="https://img.shields.io/badge/VLC-%23FF8800?logo=vlcmediaplayer&labelColor=white">
 <img alt="Static Badge" src="https://img.shields.io/badge/OBS%20Studio-%23302E31?logo=obsstudio">
