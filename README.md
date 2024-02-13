@@ -23,6 +23,7 @@ So broad and shallow experiences...
 <img alt="Static Badge" src="https://img.shields.io/badge/OBS%20Studio-%23302E31?logo=obsstudio">
 <img alt="Static Badge" src="https://img.shields.io/badge/Lua-%232C2D72?style=plastic&logo=lua">
 <img alt="Static Badge" src="https://img.shields.io/badge/mpv-%23691F69?style=plastic&logo=mpv">
+<img alt="Static Badge" src="https://img.shields.io/badge/GStreamer-%23FF3131?style=plastic&logo=GStreamer&logoColor=white">
 
 
 
