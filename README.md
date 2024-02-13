@@ -24,6 +24,8 @@ So broad and shallow experiences...
 <img alt="Static Badge" src="https://img.shields.io/badge/Lua-%232C2D72?style=plastic&logo=lua">
 <img alt="Static Badge" src="https://img.shields.io/badge/mpv-%23691F69?style=plastic&logo=mpv">
 <img alt="Static Badge" src="https://img.shields.io/badge/GStreamer-%23FF3131?style=plastic&logo=GStreamer&logoColor=white">
+<img alt="Static Badge" src="https://img.shields.io/badge/Raspberry%20Pi-%23FF3131?style=plastic&logo=raspberrypi&logoColor=white">
+<img alt="Static Badge" src="https://img.shields.io/badge/Arduino-%2300878F?style=plastic&logo=arduino&logoColor=white">
 
 
 
