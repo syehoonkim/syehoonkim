@@ -21,6 +21,9 @@ So broad and shallow experiences...
 <img alt="Static Badge" src="https://img.shields.io/badge/GStreamer-%23FF3131?logo=gstreamer&labelColor=white">
 <img alt="Static Badge" src="https://img.shields.io/badge/VLC-%23FF8800?logo=vlcmediaplayer&labelColor=white">
 <img alt="Static Badge" src="https://img.shields.io/badge/OBS%20Studio-%23302E31?logo=obsstudio">
+<img alt="Static Badge" src="https://img.shields.io/badge/Lua-%232C2D72?style=plastic&logo=lua">
+
+
 </p>
 
 
